@@ -92,10 +92,7 @@ SAW_KEL7/
 
 Proyek ini bersifat edukatif dan dikembangkan untuk tujuan pembelajaran.
 
-## 📧 Kontak
-
-Untuk pertanyaan atau kontribusi, silakan hubungi tim melalui repository ini.
-
 ---
 
 **Last Updated:** Februari 2, 2026
+
