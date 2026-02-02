@@ -75,11 +75,6 @@ SAW_KEL7/
 ├── README.md           # Dokumentasi ini
 └── .git/               # Git repository
 ```
-
-## 📊 Diagram Alur Metode SAW
-
-![Diagram Alur](https://via.placeholder.com/800x300?text=Diagram+Alur+SAW)
-
 ## 🛠️ Teknologi
 
 - **Streamlit** - Framework untuk membuat web app interaktif
@@ -107,4 +102,5 @@ Proyek ini bersifat edukatif dan dikembangkan untuk tujuan pembelajaran.
 ---
 
 **Last Updated:** Februari 2, 2026
+
 
