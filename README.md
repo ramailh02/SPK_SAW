@@ -97,10 +97,14 @@ Proyek ini bersifat edukatif dan dikembangkan untuk tujuan pembelajaran.
 
 ## 📸 Screenshot
 
-![Alt text](assets/screenshot.png)(https://via.placeholder.com/800x400?text=SPK+SAW+Kelompok+7)
+<img width="1819" height="797" alt="Screenshot 2026-01-22 145015" src="https://github.com/user-attachments/assets/14e9b33a-0ada-4a50-b8ed-f05d79134898" />
+<img width="1805" height="478" alt="Screenshot 2026-01-22 145103" src="https://github.com/user-attachments/assets/44493f1e-36fc-40b6-a94b-450a629d07ed" />
+<img width="1730" height="723" alt="Screenshot 2026-01-22 145128" src="https://github.com/user-attachments/assets/2dabb497-3b61-42d5-852c-2843aeb51a80" />
+<img width="1756" height="740" alt="Screenshot 2026-01-22 145149" src="https://github.com/user-attachments/assets/3b9a7f54-e575-42d8-b1fd-6f687814cc1c" />
 
 *Interface utama aplikasi SPK Metode SAW*
 
 ---
 
 **Last Updated:** Februari 2, 2026
+
